@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="1.363" timestamp="2021-03-15T21:09:01.065865" hostname="Simulator"><testcase classname="test-addcol.TestAppendCol" name="test_with_status" time="0.014" /></testsuite></testsuites>
